@@ -1,5 +1,6 @@
 # learn-plotnine
-Lesson plan for exploratory data visualization!
+
+Lesson plan for plotting with a grammar of graphics.
 
 ## Setup
 
