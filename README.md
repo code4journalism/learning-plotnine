@@ -7,7 +7,7 @@ Lesson plan for plotting with a grammar of graphics.
 
 **As you go through the lessons, pay attention to the following emojis:**
 
-👉- something you need to do (usually write code in the cell below, or maybe google something and type an answer)
+👉- something you need to do (usually write code in the cell below, or maybe a short answer or a longer reflection in a markdown cell)
 
 📚- something you should read (other links are there if you want to follow them, but not required reading)
 
