@@ -5,6 +5,15 @@ Lesson plan for plotting with a grammar of graphics.
 1. `learn-plotnine.ipynb`
 2. `practice-plotnine.ipynb`
 
+**As you go through the lessons, pay attention to the following emojis:**
+
+👉- something you need to do (usually write code in the cell below, or maybe google something and type an answer)
+
+📚- something you should read (other links are there if you want to follow them, but not required reading)
+
+🤖- Totally optional stuff for students who are already familiar with the concepts we're learning in this lesson.
+
+
 ## Setup
 
 1. Make sure you have the following packages:
@@ -38,3 +47,17 @@ Lesson plan for plotting with a grammar of graphics.
 	```
 
 	Make sure you're using a python3 kernel in Jupyter!
+
+
+## How to Submit
+
+Whenever you stop for the day, just save each notebook and commit it to GitHub so that the most recent version is up. If you plan to ask for help, it can also be useful for the teaching team to see where you're stuck by just looking at your repo! We won't grade it until you submit via Courseworks. 
+
+Remember, we're all learning so pushing messy code is okay! 
+
+When you're ready to submit, you may want to do a bit of cleanup.
+Make sure that all the cells you want us to grade and provide feedback on have been run and are visible before you push. Ideally the notebook can be re-run from top to bottom.
+
+You may have modified the example charts from the original, and that's totally okay too! I like to see that you're taking the time to explore, understand, and tinker.
+
+When you're ready, push the completed assignment to GitHub and put a URL in courseworks. We'll consider the assignment ready to grade once it has been submitted there!
